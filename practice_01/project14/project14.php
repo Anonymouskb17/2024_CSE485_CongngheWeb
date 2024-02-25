@@ -111,14 +111,6 @@
                 <?php
                     $reports=[
                         "Buchanan",
-                        "",
-                        "", 
-                        "",
-                        "", 
-                        "",
-                        "",
-                        "",
-                        ""
                     ];
                     echo '<select class="report">';
                     foreach($reports as $repo) {
